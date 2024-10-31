@@ -1,0 +1,11 @@
+fastapi~=0.115.4
+celery~=5.4.0
+redis
+scrapy~=2.11.2
+dash~=2.18.1
+pydantic~=2.9.2
+uvicorn~=0.32.0
+sqlalchemy~=2.0.36
+SQLAlchemy
+requests~=2.32.3
+dash-bootstrap-components~=1.6.0
